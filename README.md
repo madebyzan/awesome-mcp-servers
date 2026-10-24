@@ -568,6 +568,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[codemirror-mcp](https://github.com/marimo-team/codemirror-mcp)** CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 - **[LibreChat](https://www.librechat.ai/)** Open-source AI Web UI, supporting multiple providers including OpenAI, Anthropic, Google, Ollama, and local models. Includes MCP support for Agents.
 - **[mcphub.nvim](https://github.com/ravitemer/mcphub.nvim)** A Neovim plugin that provides a UI and api to interact with MCP servers.
+- **[Knovum](https://github.com/madebyzan/knovum)** Local-first desktop AI workspace on an infinite 2D canvas with native MCP client support (Tauri 2, Rust, Vue 3, SQLite, LanceDB).
 - **[Nerve](https://github.com/evilsocket/nerve)** is an open source command line tool designed to be a simple yet powerful platform for creating and executing MCP integrated LLM-based agents.
 - **[Shinkai](http://github.com/dcSpark/shinkai-apps/)** is a two click install AI manager (Local and Remote) that allows you to create AI agents in 5 minutes or less using a simple UI. Agents and tools are exposed as an MCP Server.
 - **[mcps-playground](https://mcpsplayground.com/chat)** a playground for Remote MCP servers
