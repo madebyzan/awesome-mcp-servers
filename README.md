@@ -555,6 +555,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 ## Clients
 
+- **[Knovum](https://github.com/madebyzan/knovum)** - Local-first AI knowledge workspace on an infinite 2D canvas (Tauri 2 + Vue 3 + Rust), featuring bi-directional MCP support for local knowledge retrieval and desktop agent workflows.
 - **[MBro](https://github.com/sitbon/magg/blob/main/docs/mbro.md)** - A powerful interactive terminal **M**CP **Bro**wser client with tab completion and automatic documentation that allows you to work with multiple MCP servers, manage tools, and create complex workflows using AI assistants.
 - **[mcp-cli](https://github.com/wong2/mcp-cli)** a cli inspector for MCP servers
 - **[mcp-client](https://github.com/rakesh-eltropy/mcp-client)** MCP REST API and CLI client for interacting with MCP servers, supports OpenAI, Claude, Gemini, Ollama etc.
